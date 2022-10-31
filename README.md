@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Esther
+- 👋 ######Hi, I’m Esther
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning at ALX software engineering programme.
 - 💞️ I’m looking to collaborate on GitHub
